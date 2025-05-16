@@ -2,8 +2,7 @@
 
 This is a simple calculator app built using React. It performs basic arithmetic operations and provides a user-friendly interface.
 
-![image](https://drive.google.com/file/d/1GR-LwO5OsIBD2J9nvfGL06WPel7wujRx/view)
-
+![image](https://github.com/user-attachments/assets/545d91bb-2e86-49c5-b389-b407a5551bf5)
 
 ## Features
 
