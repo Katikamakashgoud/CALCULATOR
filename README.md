@@ -2,7 +2,7 @@
 
 This is a simple calculator app built using React. It performs basic arithmetic operations and provides a user-friendly interface.
 
-![image](https://github.com/DevAbdurR/Simple-Calulator/assets/112758727/983f51ed-af0c-4692-aa80-45019ca12c97)
+![image](https://drive.google.com/file/d/1GR-LwO5OsIBD2J9nvfGL06WPel7wujRx/view)
 
 
 ## Features
@@ -13,7 +13,7 @@ This is a simple calculator app built using React. It performs basic arithmetic 
 
 ## Demo
 
-See the live project in action: https://react-js-simple-calculator.netlify.app/
+See the live project in action: https://calculator-nu-one-26.vercel.app/
 
 ## Technologies Used
 
